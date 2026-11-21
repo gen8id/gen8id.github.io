@@ -5,7 +5,10 @@ GitHub Pages site for gen8id public docs.
 ## Live URLs
 
 - Site root: https://gen8id.github.io/
+- 쌤스캔 이용약관: https://gen8id.github.io/ssamscan/terms.html
+- 쌤스캔 개인정보처리방침: https://gen8id.github.io/ssamscan/privacy.html
 - Lyrics & Subtitle Viewer Privacy Policy (EN): https://gen8id.github.io/lyrics-subtitle-viewer/privacy/en.html
 - Lyrics & Subtitle Viewer 개인정보처리방침 (KO): https://gen8id.github.io/lyrics-subtitle-viewer/privacy/ko.html
 
-Source HTML for the privacy pages lives in the [lyrics-subtitle-viewer](https://github.com/gen8id/lyrics-subtitle-viewer) repo under `docs/`.
+Source HTML for the Lyrics & Subtitle Viewer privacy pages lives in the [lyrics-subtitle-viewer](https://github.com/gen8id/lyrics-subtitle-viewer) repo under `docs/`.
+Ssamscan terms/privacy stubs live in this repo under `ssamscan/`.
