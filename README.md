@@ -9,6 +9,9 @@ GitHub Pages site for gen8id public docs.
 - 쌤스캔 개인정보처리방침: https://gen8id.github.io/ssamscan/privacy.html
 - Lyrics & Subtitle Viewer Privacy Policy (EN): https://gen8id.github.io/lyrics-subtitle-viewer/privacy/en.html
 - Lyrics & Subtitle Viewer 개인정보처리방침 (KO): https://gen8id.github.io/lyrics-subtitle-viewer/privacy/ko.html
+- Zipon (집온) Privacy Policy (EN): https://gen8id.github.io/zipon/privacy/en.html
+- Zipon (집온) 개인정보처리방침 (KO): https://gen8id.github.io/zipon/privacy/ko.html
 
 Source HTML for the Lyrics & Subtitle Viewer privacy pages lives in the [lyrics-subtitle-viewer](https://github.com/gen8id/lyrics-subtitle-viewer) repo under `docs/`.
 Ssamscan terms/privacy stubs live in this repo under `ssamscan/`.
+Zipon privacy pages live in this repo under `zipon/privacy/`.
